@@ -106,10 +106,10 @@
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.18.2",
-    "@commitlint/cli": "^20.5.0",
-    "@commitlint/config-conventional": "^20.5.0",
+    "@commitlint/cli": "^21.0.2",
+    "@commitlint/config-conventional": "^21.0.2",
     "@nuxt/eslint-config": "^1.15.2",
-    "@release-it/conventional-changelog": "^10.0.6",
+    "@release-it/conventional-changelog": "^11.0.1",
     "@types/node": "^25.5.0",
     "@vitest/eslint-plugin": "^1.6.13",
     "@vue/eslint-config-typescript": "^14.7.0",
@@ -121,10 +121,10 @@
     "eslint-plugin-vuejs-accessibility": "^2.5.0",
     "husky": "^9.1.7",
     "knip": "^6.0.2",
-    "lint-staged": "^16.4.0",
+    "lint-staged": "^17.0.7",
     "prettier": "^3.8.1",
     "publint": "^0.3.18",
-    "release-it": "^19.2.4",
+    "release-it": "^20.2.0",
     "vitest": "^4.1.0"
   },
   "peerDependencies": {
